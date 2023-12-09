@@ -1,0 +1,57 @@
+{
+    "data": [
+    { 
+        "question": "Who is the author of the Harry Potter book series?",
+        "options": [" J.R.R. Tolkien", "J.K. Rowling", "George R.R. Martin", "Dan Brown"],
+        "answer": 1
+    },
+    { 
+        "question": "What is the currency of Japan?",
+        "options": ["Yen", "Euro", "Dollar", "Rupee"],
+        "answer": 0
+    },
+    { 
+        "question": "Which country is home to the famous ancient monument Stonehenge?",
+        "options": ["France", "United Kingdom", "Italy", " Egypt"],
+        "answer": 1
+    },
+    {
+        "question": "What is the percentage of the earth covered by water?",
+        "options": ["51%", "61%", "71%", "81%"],
+        "answer": 3
+    },
+    { 
+        "question": "Who painted the Mona Lisa?",
+        "options": ["Vincent van Gogh", "Pablo Picasso", "Leonardo da Vinci", " Michelangelo"],
+        "answer": 2
+    },
+    { 
+        "question": "What is the capital of Australia?",
+        "options": ["Sydney", "Melbourne", "Canberra", "Perth"],
+        "answer": 2
+    },
+    {
+        "question": "What is the largest organ in the human body?",
+        "options": ["Lungs", "Heart", "Kidneys", "Liver"],
+        "answer": 1
+    },
+    {
+        "question": "What is the official language of Brazil?",
+        "options": ["Spanish", "Portuguese", "French", "English"],
+        "answer": 1
+    },
+        {
+        "question": "What is the oldest university in the UK?",
+        "options": ["Oxford", "Cambridge", "Manchester", "Bath"],
+        "answer": 0
+    },
+    {
+        "question": "What is the tallest mountain in the world?",
+        "options": ["Mount Kilimanjaro", "Mount Everest", "Mount McKinley", "Mount Fuji"],
+        "answer": 1
+    }
+  ],
+  "user_answers": [
+    
+  ]
+}
